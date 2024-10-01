@@ -1,6 +1,12 @@
-- 👋 Hi, I’m Mojmir
-- 👀 I’m interested in Metal Satmping and I´ve just created a new learning app.
-<!---
-Mojmir12/Mojmir12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Mojmír's App
+
+Tato aplikace je navržena pro optimalizaci procesů v oblasti střižních a matričních operací.
+
+## Struktura projektu
+- `index.html`: Hlavní stránka aplikace.
+- `Stamping/`: Adresář pro související soubory a komponenty.
+
+## Jak používat
+1. Otevřete aplikaci na [odkazu](#).
+2. Sledujte pokyny na stránce.
+
